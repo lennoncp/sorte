@@ -1,0 +1,20 @@
+HISTÓRIA DO PROJETO
+
+O cliente deseja um sitema capaz de calcular dados apartir da tabela de sorteios realizados pela lotéria da 
+caixa(lotofacíl), para apartir dessa analise, criar diversos indicadores que vao dar norte a suas apostas:
+
+INDICADORES SUJERIDOS
+
+ ID1 - Números mais sorteados;
+ ID2 - Relação de número sorteado e números que o seguem;
+ ID3 - Relação de comparação entre sorteios, anterior e geral.
+ ID4 - Calculo de reocorrencia de número sorteado.
+ ID5 - Relação da aposta gerada com o ID3.
+ ID6 - Relação de sorteio e o local onde ocorreu o sorteio.
+ ID7 - Anomalia de seguência.
+
+REQUISITOS FUNCIONAIS
+
+RF001 - Inserir novo sorteio a base existênte.
+RF002 - Gerar apostas.
+RF003 - 
